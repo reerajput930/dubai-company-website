@@ -10463,6 +10463,10 @@ blockquote {
         height: 41px;
         width: 40px;
     }
+    .section-small{
+        padding-top: 46px !important;
+        padding-bottom: 72px;
+    }
     .section.white {
       
         display: flex;
